@@ -1,0 +1,21 @@
+directories:
+  output: electron_dist
+  buildResources: build
+appId: com.june.ai.june
+remoteBuild: false
+dmg:
+  background: build/background/dmg.tiff
+  contents:
+    - x: 180
+      'y': 260
+    - x: 460
+      'y': 260
+      type: link
+      path: /Applications
+files:
+  - electron-preload.js
+  - index.js
+  - dist
+  - build
+  - electron
+electronVersion: 3.0.8

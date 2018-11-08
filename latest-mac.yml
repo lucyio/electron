@@ -1,0 +1,12 @@
+version: 0.1.0
+files:
+  - url: June.ai-0.1.0-mac.zip
+    sha512: aUoZ3UQtl/FeLaSc2zVhI94FtSmR9UUgJ7M7z2CEhVr3sXSPqYVoDH5oEpFoFFy6mO1tUF8cQmPWDOrOXIcptA==
+    size: 89120034
+    blockMapSize: 92311
+  - url: June.ai-0.1.0.dmg
+    sha512: 58x104prYY4d+bRQH87AFY9jUOLFbEKouCjj+IsYasO0t60/YrbytIucJQbBg363EXZ0EgOiW+XeSMQLLUGT3w==
+    size: 92950102
+path: June.ai-0.1.0-mac.zip
+sha512: aUoZ3UQtl/FeLaSc2zVhI94FtSmR9UUgJ7M7z2CEhVr3sXSPqYVoDH5oEpFoFFy6mO1tUF8cQmPWDOrOXIcptA==
+releaseDate: '2018-11-08T21:51:17.456Z'

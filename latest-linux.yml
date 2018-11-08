@@ -1,0 +1,9 @@
+version: 0.1.0
+files:
+  - url: June.ai-0.1.0-x86_64.AppImage
+    sha512: g8+QUTk22urBv3JAjjXpf3TFoIjLC//xg2PICFn5Y/xfq8KKqUeWCpXDBc9DjrbWAMJyZCeqSHkeWReRW6GXug==
+    size: 93106550
+    blockMapSize: 96954
+path: June.ai-0.1.0-x86_64.AppImage
+sha512: g8+QUTk22urBv3JAjjXpf3TFoIjLC//xg2PICFn5Y/xfq8KKqUeWCpXDBc9DjrbWAMJyZCeqSHkeWReRW6GXug==
+releaseDate: '2018-11-08T21:51:17.456Z'
